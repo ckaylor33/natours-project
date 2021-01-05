@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "landing page",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckaylor33/natours-project.git"
+  },
+  "author": "Charlie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckaylor33/natours-project/issues"
+  },
+  "homepage": "https://github.com/ckaylor33/natours-project#readme",
+  "devDependencies": {
+    "sass": "^1.32.0"
+  }
+}
