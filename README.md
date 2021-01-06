@@ -6,7 +6,7 @@ Project
 Travel landing page
 
 Project Purpose and Goal
-To learn how to effectively use sass in a project, using advanced techniques for animations, layout, etc.
+To learn how to effectively use sass in a project, using advanced techniques for animations, layout, etc. Choosing to use float layout for this project to get the most fundamental design layout type perfected.
 
 Web stack and Explanation
 
